@@ -30,7 +30,7 @@ public class LuceneTester {
          e.printStackTrace();
       }
    }
-
+//excellent work
    private void displayTokenUsingStopAnalyzer() throws IOException{
       String text 
          = "OMV Excellence Scholarships for doing Masters in Petroleum Engineering for students who are doing or have done Petroleum Engineering and will be eligible to start Masters in Fall 2017 at Montanuniversität Leoben, Austria ";
